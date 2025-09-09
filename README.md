@@ -5,6 +5,7 @@ onebot11项目地址:
 https://dgithub.xyz/botuniverse/onebot-11/tree/master
 
 napcat项目地址:
-
+https://dgithub.xyz/NapNeko/NapCatQQ
 
 napcat官方文档:
+https://www.napcat.wiki/guide/start-install
