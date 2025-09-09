@@ -14,3 +14,6 @@ https://www.napcat.wiki/guide/start-install
 ![示例1](example-image/Image_1757390873674.png)
 ![示例2](example-image/Image_1757391230418.png)
 图一是机器人给用户点名片赞，图二是机器人调用deepseek跟用户聊天。
+
+
+README.md文档还正在完善，敬请期待……
